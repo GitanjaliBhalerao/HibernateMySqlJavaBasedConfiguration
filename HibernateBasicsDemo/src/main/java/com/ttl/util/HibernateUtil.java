@@ -33,7 +33,7 @@ public class HibernateUtil {
 			settings.put(Environment.DRIVER,"com.mysql.cj.jdbc.Driver");
 			settings.put(Environment.URL,"jdbc:mysql://localhost:3306/hibernate_db?useSSL=false");
 			settings.put(Environment.USER, "root");
-			settings.put(Environment.PASS,"Rugved@2015");
+			settings.put(Environment.PASS,"enter_password");
 			
 			settings.put(Environment.SHOW_SQL, "true");
 			
